@@ -9,7 +9,7 @@ public class DButil {
 	Statement st;
 	ResultSet rs;
 	public int i=0;
-	int q=0;
+	int q=2;
 	public  ArrayList<String> ob=new ArrayList<String>();
 	
 	public  String str1="";
